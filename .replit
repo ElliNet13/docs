@@ -1,0 +1,7 @@
+run = "cowsay Use git!"
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["sh", "-c", "cowsay Use git!"]
