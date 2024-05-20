@@ -1,4 +1,4 @@
-site_name: My Project Documentation
+site_name: My Docs
 nav:
   - Home: index.md
 theme: readthedocs

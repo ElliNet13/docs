@@ -1,2 +1,2 @@
 # Welcome to my docs
-Here you can fomd docs about my stuff!
+Here you can find docs about my stuff!
