@@ -1,4 +1,5 @@
 site_name: My Docs
 nav:
   - Home: index.md
+  - Contributing to GitHub Repositories: add.md
 theme: readthedocs
