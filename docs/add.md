@@ -19,7 +19,7 @@ Welcome to the documentation on how to contribute to GitHub repositories! Whethe
 
 5. **Push Changes**: Push your changes to your forked repository on GitHub:
    ```
-   git push origin master
+   git push
    ```
 
 6. **Create a Pull Request**: Go to the original repository on GitHub and click on the "New Pull Request" button. Follow the instructions to create a pull request to merge your changes into the original repository.
