@@ -21,7 +21,7 @@ Hexadecimal, often abbreviated as hex, is a base-16 number system. Unlike the de
 - **E** - Represents fourteen.
 - **F** - Represents fifteen.
 
-In hexadecimal notation, numbers are expressed as a combination of these symbols. For instance, the hexadecimal number `1A3F` uses these symbols to represent a number in base-16 format, which is different from its decimal equivalent.
+In hexadecimal notation, numbers are expressed as a combination of these symbols. For instance, the hexadecimal number `1A3F` uses these symbols to represent a number in base-16 format, which is different from its decimal equivalent. It is also good to use `$` before a hex value because like `45` could be hex or a decimal. So it would be good to put it as `$45`
 
 ## Why Use Hexadecimal?
 
