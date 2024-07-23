@@ -2,4 +2,5 @@ site_name: My Docs
 nav:
   - Home: index.md
   - Contributing to GitHub Repositories: add.md
+  - What is hex?: hex.md
 theme: readthedocs

@@ -2,7 +2,7 @@ Welcome to the documentation on how to contribute to GitHub repositories! Whethe
 
 ## Getting Started
 
-1. **Fork the Repository**: Click on the "Fork" button in the top-right corner of the repository's GitHub page to create a copy of the repository in your GitHub account.
+1. **Fork the Repository**: Click on the "Fork" button in the top-right corner of the repository's GitHub page to create a copy of the repository in your GitHub account. Like on the Github page for this [ElliNet13/docs](https://github.com/ElliNet13/docs)
 
 2. **Clone the Repository**: Clone your forked repository to your local machine using the following command:
    ```
