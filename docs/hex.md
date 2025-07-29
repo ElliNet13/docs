@@ -96,8 +96,9 @@ To convert the hexadecimal number `3F` to decimal:
 
 ## Online Conversion Tool
 
-To facilitate these conversions, you can use the online tool available at [https://ellinet13.github.io/hex](https://ellinet13.github.io/hex). This tool offers several features:
+To facilitate these conversions, you can use the online tool available at [https://www.ellinet13.com/oldsite/hex](https://www.ellinet13.com/oldsite/hex). This tool offers several features:
 
+- **Simple**: Like the UI is super simple
 - **Convert Decimal to Hexadecimal**: Easily convert decimal numbers to their hexadecimal counterparts.
 - **Convert Hexadecimal to Decimal**: Convert hexadecimal numbers to decimal format with ease.
 - **Interactive Experience**: Experiment with various values to better understand the conversion process and hexadecimal notation.
